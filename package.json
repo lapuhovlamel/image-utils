@@ -1,0 +1,22 @@
+{
+  "name": "image-utils",
+  "version": "1.0.0",
+  "description": "A collection of utilities for image manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lapuhovlamel/image-utils"
+  },
+  "dependencies": {
+    "sharp": "^0.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lapuhovlamel/image-utils/issues"
+  },
+  "homepage": "https://github.com/lapuhovlamel/image-utils#readme"
+}
