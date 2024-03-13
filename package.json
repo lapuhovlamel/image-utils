@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lapuhovlamel/image-utils"
+    "url": "https://github.com/lapuhovlamel/lapuhovlamel-image-utils"
   },
   "dependencies": {
     "sharp": "^0.29.1"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lapuhovlamel/image-utils/issues"
+    "url": "https://github.com/lapuhovlamel/lapuhovlamel-image-utils/issues"
   },
-  "homepage": "https://github.com/lapuhovlamel/image-utils#readme"
+  "homepage": "https://github.com/lapuhovlamel/lapuhovlamel-image-utils#readme"
 }
