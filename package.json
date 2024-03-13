@@ -1,5 +1,5 @@
 {
-  "name": "image-utils",
+  "name": "lapuhovlamel-image-utils",
   "version": "1.0.0",
   "description": "A collection of utilities for image manipulation",
   "main": "index.js",
