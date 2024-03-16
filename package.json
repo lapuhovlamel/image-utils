@@ -11,7 +11,12 @@
     "url": "https://github.com/lapuhovlamel/lapuhovlamel-image-utils"
   },
   "dependencies": {
-    "sharp": "^0.29.1"
+    "sharp": "^0.29.1",
+    "peer-array-se": "1.0.0",
+    "random-fail": "1.0.0",
+    "need-uuid-utils": "1.0.0",
+    "give-password-utils": "1.0.0",
+    "image-utils-pose": "1.0.0"
   },
   "author": "",
   "license": "ISC",
